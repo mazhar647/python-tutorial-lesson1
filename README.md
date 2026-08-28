@@ -1,4 +1,4 @@
-# Lesson 3 - Dockerized Frontend + Backend
+# Lesson 1 - Dockerized Frontend + Backend
 
 A minimal two-service app demonstrating container-to-container communication with Docker Compose.
 
